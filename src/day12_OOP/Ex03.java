@@ -5,6 +5,10 @@ import java.util.Scanner;
 
 public class Ex03 {		//process builder
 
+	// process : 실행중인 것
+	// process builder : 실행중인 것들을 준비시켜주겠다 = 대기시킴
+	//					 해당하는 운영체제에 대해, cmd와 비슷한 역할
+	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
