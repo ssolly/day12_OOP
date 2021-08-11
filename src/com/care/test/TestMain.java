@@ -23,5 +23,8 @@ public class TestMain {
 		
 		TestClass02 tc02 = new TestClass02();
 		tc02.testClass02();
+		
+		a.a.a.TestClass tt = new a.a.a.TestClass();
+		tt.testClass();
 	}
 }
